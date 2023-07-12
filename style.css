@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(28, 154, 154);
+    
+}
+
+label{
+    color:rgb(28, 154, 154);
+}
+
+h1{
+    background-color: rgb(211, 222, 222);
+    padding-top: 15px;
+    margin-bottom: -10px;;
+}
+
+.btm{
+    background-color: rgb(211, 222, 222);
+}
+button{
+    margin-left: 80%;
+    margin-bottom: 3%;
+    color: white;
+    margin-top: 7px;
+    background-color:rgb(28, 154, 154) ;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+}
+.form{
+    margin-top: -10px;
+margin: 0px 350px 0px 350px;
+background-color: rgb(255, 255, 255);
+
+}
